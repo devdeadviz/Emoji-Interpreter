@@ -1,17 +1,33 @@
+body {
+  background: #f89b31;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
+  background: #f8bd2f;
+  width: 100%;
+  max-width: 640px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  padding-top: 25px;
 }
 
 input {
   padding: 1rem;
   width: 80%;
+  border-radius: 5px;
+  outline: none;
 }
 
 .divClass {
   font-size: 1.5rem;
   font-weight: bold;
   padding: 0.5rem 0rem;
+  margin: 25px;
 }
 
 .emojiClass {

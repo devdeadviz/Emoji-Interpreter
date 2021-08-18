@@ -9,6 +9,21 @@ var emojiDictionary = {
   "🥡": "takeout box",
   "❤️": "love",
   "😡": "annoyance",
+  "😃": "Grinning Face with Big Eyes",
+  "🤣": "Rolling on the Floor Laughing",
+  "😂": "Face with Tears of Joy",
+  "😉": "Winking Face",
+  "🥰": "Smiling Face with Hearts",
+  "🤩": "Star-Struck",
+  "😋": "Face Savoring Food",
+  "😛": "Face with Tongue",
+  "😜": "Winking Face with Tongue",
+  "🤑": "Money-Mouth Face",
+  "🤭": "Face with Hand Over Mouth",
+  "🤫": "Shushing Face",
+  "🤔": "Thinking Face",
+  "😐": "Neutral Face",
+  "😶‍🌫️": "Face in Clouds",
 };
 
 var dicArray = Object.keys(emojiDictionary);
