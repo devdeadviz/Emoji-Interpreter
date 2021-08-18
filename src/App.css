@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+}
+
+.divClass {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0.5rem 0rem;
+}
+
+.emojiClass {
+  font-size: 2rem;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 1.5rem 1rem;
+}
